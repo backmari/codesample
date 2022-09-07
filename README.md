@@ -48,6 +48,8 @@ To install the required packages using pip:
 
     pip install -r requirements.txt
 
+The requirements were generated in an environment running Python 3.10.6.
+
 ## How to run
 
 To run the simple GUI:
